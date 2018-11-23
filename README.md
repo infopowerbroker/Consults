@@ -31,4 +31,4 @@ svn update
 
 You can make a daily deed button with this custom deed: $CUSTOM|Command|Reply to Consult|z_Consulted|call consults.ash|||
 
-This script is multiple uses a day. It will only send consults the first time. Repeated usage will reply tp consults sent to you.
+This script is multiple uses a day. It will only send consults the first time. Repeated usage will reply to consults sent to you.
