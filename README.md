@@ -18,7 +18,7 @@ How do I use it?
 First, install it by running this command in KoLmafia's graphical CLI:
 
 <pre>
-svn checkout https://github.com/infopowerbroker/Consults/branches/release/
+git checkout https://github.com/infopowerbroker/Consults.git release
 </pre>
 
 Once it's installed, go to the Scripts menu, then select "Consults.ash". 
@@ -26,9 +26,9 @@ Once it's installed, go to the Scripts menu, then select "Consults.ash".
 To update the script itself, run this command in the graphical CLI:
 
 <pre>
-svn update
+git update
 </pre>
 
 You can make a daily deed button with this custom deed: $CUSTOM|Command|Reply to Consult|z_Consulted|call consults.ash|||
 
-This script is multiple uses a day. It will only send consults the first time. Repeated usage will reply to consults sent to you.
+This script supports multiple uses a day. It will only send consults the first time. Repeated usage will reply to consults sent to you.
