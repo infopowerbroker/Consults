@@ -5,7 +5,7 @@ What does it do?
 ----------------
 This script is a fork of PeKaJe's Zatara.ash
 
-It takes the existing fucntionaly (Iterating throguh all requested consults and replying back with the mafia default answers) and also checks to see if you have used your clan consults yet.
+It takes the existing functionality (Iterating throguh all requested consults and replying back with the mafia default answers) and also checks to see if you have used your clan consults yet.
 
 If you still have consults available, it will send them to statically assigned people (current clannies in OldCW's clan).
 
